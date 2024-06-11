@@ -1,12 +1,12 @@
 <h1 align="center">NameLuX</h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/MrHacker-X/NameLuX?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/MrHacker-X/NameLuX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/MrHacker-X/NameLuX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/MrHacker-X/NameLuX?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MrHacker-X/NameLuX?style=for-the-badge&color=blue"><br>
-  <img src="https://hits.dwyl.com/MrHacker-X/NameLuX.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/VritraSecz/NameLuX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/VritraSecz/NameLuX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/VritraSecz/NameLuX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/VritraSecz/NameLuX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/VritraSecz/NameLuX?style=for-the-badge&color=blue"><br>
+  <img src="https://hits.dwyl.com/VritraSecz/NameLuX.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
@@ -39,7 +39,7 @@ NameLuX is a Python3-based tool designed for customizing the Termux interface by
 
 3. Clone this repository to your local machine:
 
-    ```git clone https://github.com/MrHacker-X/NameLuX.git```
+    ```git clone https://github.com/VritraSecz/NameLuX.git```
 
 4. Navigate to the NameLuX directory in your Termux environment.
 
@@ -80,12 +80,3 @@ NameLuX is a Python3-based tool designed for customizing the Termux interface by
 - Also you can tell us on our Instagram DM. you can tell us if you want to add any of your banner or any types of PS1 prompt. [Click Here](https://instagram.com/haxorlex) to open our instagram profile.
 
 - We will add your requested features with by giving your credit.
-
-## Some Popular repository:
-+ You can check it out
-<p align="center"><a href="https://github.com/MrHacker-X/KillerX.git/"><img title="KillerX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=KillerX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=BruteX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/OsintifyX.git/"><img title="OsintifyX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=OsintifyX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/LinuxX.git/"><img title="LinuxX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=LinuxX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=InfoGX&theme=dark"></a>
-
